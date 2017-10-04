@@ -1,9 +1,9 @@
 ---
 # pages/build/sample.md
 sidebar: home_sidebar
-title: Build for sample
+title: Build for marmite
 folder: info
-permalink: /devices/sample/build
-device: sample
+permalink: /devices/marmite/build
+device: marmite
 ---
 {% include templates/device_build.md %}
