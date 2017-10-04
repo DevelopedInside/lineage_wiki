@@ -18,7 +18,7 @@ has_recovery_partition: true
 height: 143 mm (5.64 in)
 image: marmite.png
 install_method: TWRP
-kernel: android_kernel_marmite_msm8937
+kernel: android_kernel_wileyfox_msm8937
 maintainers: [VBCerobil, BeYkeRYkt, vm03]
 name: Swift 2/Plus/X
 network:
