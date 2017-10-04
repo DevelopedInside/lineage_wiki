@@ -1,10 +1,10 @@
 ---
 # pages/info/sample.md
 sidebar: home_sidebar
-title: Info about sample
+title: Info about marmite
 folder: info
 layout: deviceinfo
-permalink: /devices/sample/
-device: sample
+permalink: /devices/marmite/
+device: marmite
 ---
 {% include templates/device_info.md %}
